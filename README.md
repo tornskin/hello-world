@@ -4,4 +4,4 @@ bółeczka
 Hello!
 It's me but nothing more interesting.
 
-wcale nie buleczka. może jednak bułeczka
+wcale nie buleczka. może jednak bułeczka. i kropka.
